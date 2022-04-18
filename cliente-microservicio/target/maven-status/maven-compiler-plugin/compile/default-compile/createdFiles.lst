@@ -1,0 +1,10 @@
+com\cpuente\clientemicroservicio\controller\ErrorMessage.class
+com\cpuente\clientemicroservicio\entity\Person.class
+com\cpuente\clientemicroservicio\service\ClientServiceImpl.class
+com\cpuente\clientemicroservicio\ClienteMicroservicioApplication.class
+com\cpuente\clientemicroservicio\repository\ClientRepository.class
+com\cpuente\clientemicroservicio\entity\Client$ClientBuilder.class
+com\cpuente\clientemicroservicio\entity\Client.class
+com\cpuente\clientemicroservicio\controller\ClientController.class
+com\cpuente\clientemicroservicio\controller\ErrorMessage$ErrorMessageBuilder.class
+com\cpuente\clientemicroservicio\service\ClientService.class

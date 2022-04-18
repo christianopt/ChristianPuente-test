@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cpuente.clientemicroservicio.ClienteMicroservicioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.298 s - in com.cpuente.clientemicroservicio.ClienteMicroservicioApplicationTests
